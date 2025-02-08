@@ -1,0 +1,4 @@
+{
+  "*": "biome format --write",
+  "**/*.{tsx,ts}": "biome lint --write"
+}
